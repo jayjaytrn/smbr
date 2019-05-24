@@ -1,0 +1,14 @@
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\obj\Debug\netcoreapp2.1\MailTest.csproj.CoreCompileInputs.cache
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\obj\Debug\netcoreapp2.1\MailTest.AssemblyInfoInputs.cache
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\obj\Debug\netcoreapp2.1\MailTest.AssemblyInfo.cs
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\bin\Debug\netcoreapp2.1\MailTest.deps.json
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\bin\Debug\netcoreapp2.1\MailTest.runtimeconfig.json
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\bin\Debug\netcoreapp2.1\MailTest.runtimeconfig.dev.json
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\bin\Debug\netcoreapp2.1\MailTest.dll
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\bin\Debug\netcoreapp2.1\MailTest.pdb
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\obj\Debug\netcoreapp2.1\MailTest.dll
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\obj\Debug\netcoreapp2.1\MailTest.pdb
+C:\Users\salakhutdinov_mr\Source\Repos\MailTest\MailTest\obj\Debug\netcoreapp2.1\MailTest.csprojAssemblyReference.cache

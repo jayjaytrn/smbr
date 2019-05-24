@@ -1,0 +1,63 @@
+{
+  "uuid": "43806abb-4d53-4261-a916-e9a9dfa3f746-tr-0-1001",
+  "historyId": "MailTest.NUnitTests.TestGmail.GmailLoginTest",
+  "fullName": "MailTest.NUnitTests.TestGmail.GmailLoginTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "CIA11W10"
+    },
+    {
+      "name": "testClass",
+      "value": "MailTest.NUnitTests.TestGmail"
+    },
+    {
+      "name": "testMethod",
+      "value": "GmailLoginTest"
+    },
+    {
+      "name": "package",
+      "value": "MailTest.NUnitTests.TestGmail"
+    }
+  ],
+  "links": [],
+  "name": "GmailLoginTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GmailLoginTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "bd19b5c017dc4f38873bc4030b305ea8-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1558443044913,
+      "stop": 1558443050038
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1558443044910,
+  "stop": 1558443050047
+}

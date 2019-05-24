@@ -1,0 +1,86 @@
+{
+  "uuid": "2427b5dd-6f6e-4efc-acf7-3d9ca16fd749-tr-0-1001",
+  "historyId": "MailTest.NUnitTests.TestGmail.GmailLoginTest",
+  "fullName": "MailTest.NUnitTests.TestGmail.GmailLoginTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "CIA11W10"
+    },
+    {
+      "name": "testClass",
+      "value": "MailTest.NUnitTests.TestGmail"
+    },
+    {
+      "name": "testMethod",
+      "value": "GmailLoginTest"
+    },
+    {
+      "name": "package",
+      "value": "MailTest.NUnitTests.TestGmail"
+    },
+    {
+      "name": "tag",
+      "value": "NUnit"
+    },
+    {
+      "name": "tag",
+      "value": "Debug"
+    },
+    {
+      "name": "feature",
+      "value": "Core"
+    }
+  ],
+  "links": [
+    {
+      "name": "I'm a test",
+      "url": "https://example.org/I'm%20a%20test",
+      "type": "tms"
+    },
+    {
+      "name": "GitHub#1",
+      "url": "https://example.org/https://github.com/unickq/allure-nunit",
+      "type": "issue"
+    }
+  ],
+  "name": "GmailLoginTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "GmailLoginTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "f9a753ae0f304f05b2c996613dbc6a1a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1558443951832,
+      "stop": 1558443956778
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1558443951830,
+  "stop": 1558443956787
+}

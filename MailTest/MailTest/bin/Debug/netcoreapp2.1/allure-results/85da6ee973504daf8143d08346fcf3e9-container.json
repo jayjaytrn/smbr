@@ -1,0 +1,12 @@
+{
+  "uuid": "ec3cf4dd-91f8-467a-8de0-cb30a57793de-tc-0-1000",
+  "name": "MailTest.NUnitTests.TestGmail.GmailLoginTest",
+  "children": [
+    "43806abb-4d53-4261-a916-e9a9dfa3f746-tr-0-1001"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1558443044902,
+  "stop": 1558443050085
+}
